@@ -18,3 +18,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Green theme branch */
+.lead {
+    color: #198754;
+}
+
