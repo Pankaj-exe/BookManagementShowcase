@@ -18,3 +18,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Red theme branch */
+footer {
+    color: #dc3545;
+}
+
