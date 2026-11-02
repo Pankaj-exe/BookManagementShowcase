@@ -34,3 +34,9 @@ h2 {
     color: #6f42c1;
 }
 
+/* Orange theme branch */
+.btn-primary {
+    background-color: #fd7e14;
+    border-color: #fd7e14;
+}
+
