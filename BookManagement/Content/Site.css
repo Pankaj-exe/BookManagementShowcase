@@ -18,3 +18,9 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Blue theme branch */
+.navbar {
+    background-color: #0d6efd !important;
+}
+
